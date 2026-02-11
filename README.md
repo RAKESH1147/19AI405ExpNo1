@@ -41,7 +41,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 ## PROGRAM:
-```import random
+```py
+import random
 
 class HealthMonitoringAgent:
     def __init__(self, patient_data):
